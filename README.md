@@ -1,24 +1,34 @@
-# Mehmet Taşcı - Kişisel Blog Web Sitesi
+# Kişisel Web Sitesi-Mehmet Taşcı
 
-##  Özellikler
-sade,kişiselleştirilmiş,amaca uygun bir web sitesi tasarım örneği çalışmasıdır
+**Canlı site:** https://web-sitesi-two.vercel.app/
 
-## Proje Yapısı
 
+Basit ama temiz bir tasarım yapmaya çalıştım. Kendimi tanıtan, hobilerimi paylaştığım bir site oldu.
+
+## Dosyalar
+
+```
 odev4/
-index.html          # Ana HTML dosyası
-style.css           # CSS stilleri
-script.js           # JavaScript dosyası
-.jpg              # Fotoğraf dosyaları
+├── index.html    # Ana sayfa
+├── style.css     # Tasarım dosyası  
+├── script.js     # JavaScript kodları
+└── *.jpg         # Fotoğraflarım
+```
 
-## Bölümler
-kişisel tanıtım 
-hakkımda
-kişisel fotoğraflar
-video(ödev şartı,direkt gömülü kullanılabilir olması için telifsiz mozart requem in D minor eklendi)
-iletişim,bölümleri
+## Site içeriği
+
+- **Ana sayfa:** kısa tanıtım
+- **Hakkımda:** Kendimi tanıttığım bölüm ilgi alanları vs.
+- **Fotoğraflar:** Çektiğim bazı fotoğrafları paylaştım
+- **Video:** Ödev şartı olduğu için Mozart requem in d minor ekledim (gömülü olarak direkt sitede yer alması için telif sorunu vardı)
+- **İletişim:** Mail ve Instagram hesabım
 
 
-*Geliştirici*: Mehmet Taşcı  
-*Öğrenci No*: 2321032012  
-*Üniversite*: Süleyman Demirel Üniversitesi
+## Kullandığım teknolojiler
+#css
+#java script
+#html
+
+
+**Mehmet Taşcı** - 2321032012  
+Süleyman Demirel Üniversitesi
